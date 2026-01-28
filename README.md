@@ -12,7 +12,7 @@ A simple uptime monitoring tool built with Laravel and Vue.js. Keep track of you
 
 ## Requirements
 
-- PHP 8.2+
+- PHP 8.4+
 - MySQL 8.0+ or PostgreSQL
 - Node.js 18+
 - Composer
